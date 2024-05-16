@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/-.iml" filepath="$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Assignment/0.Assignment.iml" filepath="$PROJECT_DIR$/0.Assignment/0.Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Pattern &amp; CheckNum/0.Pattern &amp; CheckNum.iml" filepath="$PROJECT_DIR$/0.Pattern &amp; CheckNum/0.Pattern &amp; CheckNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Test/0.Test.iml" filepath="$PROJECT_DIR$/0.Test/0.Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.Loop/7.Loop.iml" filepath="$PROJECT_DIR$/7.Loop/7.Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.Abstract class &amp; method/Abstract class and method.iml" filepath="$PROJECT_DIR$/17.Abstract class &amp; method/Abstract class and method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25.Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/25.Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/38.Array/Array.iml" filepath="$PROJECT_DIR$/38.Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32.StringClass/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/32.StringClass/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Basic/Basic.iml" filepath="$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.Call to this and Constructor chaining/Call to this and Constructor chaining.iml" filepath="$PROJECT_DIR$/13.Call to this and Constructor chaining/Call to this and Constructor chaining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Pattern &amp; CheckNum/Character Pattern/Character Pattern.iml" filepath="$PROJECT_DIR$/0.Pattern &amp; CheckNum/Character Pattern/Character Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19.Downcasting/Downcasting.iml" filepath="$PROJECT_DIR$/19.Downcasting/Downcasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26.Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/26.Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35.Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/35.Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21.Functional Interface/Functional Interface.iml" filepath="$PROJECT_DIR$/21.Functional Interface/Functional Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.Has-A Relationship/Has-A Relationship.iml" filepath="$PROJECT_DIR$/14.Has-A Relationship/Has-A Relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.InstanceOf Keyword/InstanceOf Keyword.iml" filepath="$PROJECT_DIR$/20.InstanceOf Keyword/InstanceOf Keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18.Interface/Interface.iml" filepath="$PROJECT_DIR$/18.Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Interview Program/Interview Program.iml" filepath="$PROJECT_DIR$/0.Interview Program/Interview Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29.ObjectClass Methods/_3_clonable/Intro For clonning/Intro.iml" filepath="$PROJECT_DIR$/29.ObjectClass Methods/_3_clonable/Intro For clonning/Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Tutorial.iml" filepath="$PROJECT_DIR$/Java Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22.Marker Interface/Marker Interface.iml" filepath="$PROJECT_DIR$/22.Marker Interface/Marker Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Method/Method.iml" filepath="$PROJECT_DIR$/2.Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.Method Overloading/Method Overloading.iml" filepath="$PROJECT_DIR$/11.Method Overloading/Method Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36.MultiTasking/MultiTasking.iml" filepath="$PROJECT_DIR$/36.MultiTasking/MultiTasking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Pattern &amp; CheckNum/Number Pattern/Number.iml" filepath="$PROJECT_DIR$/0.Pattern &amp; CheckNum/Number Pattern/Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29.ObjectClass Methods/ObjectClass Methods.iml" filepath="$PROJECT_DIR$/29.ObjectClass Methods/ObjectClass Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_1/Part_1.iml" filepath="$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_1/Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_2/Part_2.iml" filepath="$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_2/Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_3/Part_3.iml" filepath="$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_3/Part_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_4/Part_4.iml" filepath="$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_4/Part_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_5/Part_5.iml" filepath="$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_5/Part_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_6/Part_6.iml" filepath="$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_6/Part_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_7_MODIFIERS_PACKAGES/Part_7_MODIFIERS_PACKAGES.iml" filepath="$PROJECT_DIR$/15.Inheritence_IS-A_Relationship/Part_7_MODIFIERS_PACKAGES/Part_7_MODIFIERS_PACKAGES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24.Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/24.Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27.Private Constructor/Private Constructor.iml" filepath="$PROJECT_DIR$/27.Private Constructor/Private Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31.Recursion/Recursion.iml" filepath="$PROJECT_DIR$/31.Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33.StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/33.StringBuffer/StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/34.StringBuilder/StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32.StringClass/String_Basic/String_Basic.iml" filepath="$PROJECT_DIR$/32.StringClass/String_Basic/String_Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32.StringClass/String_Methods/String_Methods.iml" filepath="$PROJECT_DIR$/32.StringClass/String_Methods/String_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Pattern &amp; CheckNum/Symbol Pattern/Symbol Pattern.iml" filepath="$PROJECT_DIR$/0.Pattern &amp; CheckNum/Symbol Pattern/Symbol Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23.Tight Coupling &amp; Loose Coupling/Tight Coupling_Loose Coupling.iml" filepath="$PROJECT_DIR$/23.Tight Coupling &amp; Loose Coupling/Tight Coupling_Loose Coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Pattern &amp; CheckNum/Symbol Pattern/Triangle Pattern/Triangle Pattern.iml" filepath="$PROJECT_DIR$/0.Pattern &amp; CheckNum/Symbol Pattern/Triangle Pattern/Triangle Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16.Upcasting/Upcasting.iml" filepath="$PROJECT_DIR$/16.Upcasting/Upcasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variable_DataType/Variable_DataType.iml" filepath="$PROJECT_DIR$/3.Variable_DataType/Variable_DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30.Wrapper Class/Wrapper Class.iml" filepath="$PROJECT_DIR$/30.Wrapper Class/Wrapper Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32.StringClass/_0_StringClass.iml" filepath="$PROJECT_DIR$/32.StringClass/_0_StringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29.ObjectClass Methods/_1_toStringMethod/_1_toStringMethod.iml" filepath="$PROJECT_DIR$/29.ObjectClass Methods/_1_toStringMethod/_1_toStringMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29.ObjectClass Methods/_2_equalsMethod/_2_equalsMethod.iml" filepath="$PROJECT_DIR$/29.ObjectClass Methods/_2_equalsMethod/_2_equalsMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29.ObjectClass Methods/_3_clonable/_3_clonable.iml" filepath="$PROJECT_DIR$/29.ObjectClass Methods/_3_clonable/_3_clonable.iml" />
+    </modules>
+  </component>
+</project>
